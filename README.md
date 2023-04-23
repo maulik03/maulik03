@@ -30,9 +30,11 @@
 
 ## 📊 My Github Stats:
 
-![Maulik's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulik03&show_icons=true&count_private=true&theme=vision-friendly-dark)
 [![Maulik's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulik03&count_private=true&show_icons=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulik03&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Maulik's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulik03&show_icons=true&count_private=true&theme=solarized_dark)
+![Maulik's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maulik03&show_icons=true&count_private=true&theme=solarized_dark)
+![Maulik's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maulik03&show_icons=true&count_private=true&theme=solarized_dark)-->
 
 ## 🔥 Github Streaks:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maulik03&theme=dark" width="48%" >
