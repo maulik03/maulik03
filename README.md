@@ -1,7 +1,7 @@
 # Hi there. I am Maulik 👋 . Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=maulik03.repoName)
 - 👀 I’m interested in bringing idea's into a life with use of my coding and designing skills.
-- 🌱 I’m currently learning **React**
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning **Mobile Solutions**
+- 💞️ I’m looking to collaborate on Talented Teams
 - 📫 How to reach me ...
 
 **:trophy: GitHub Profile Trophy:**
